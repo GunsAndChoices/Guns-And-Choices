@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		},
+		{
+			"Name": "MultiUserTakes",
+			"Enabled": true
+		},
+		{
+			"Name": "USDMultiUser",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"HoloLens",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"Lumin",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"AllDesktop"
+	]
+}
