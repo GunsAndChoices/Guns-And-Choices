@@ -2,21 +2,15 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "D5A612EB9F5C906F8A7500DED16590CCCB7A86C0",
+			"ShaderMapHash": "07A411D0410F6B9BBBFD3EDB44EC84532B6D7653",
 			"Assets": [
-				"/Engine/VREditor/Devices/Vive/VivePreControllerMaterial"
+				"/Engine/EditorMaterials/PersonaFloorMat"
 			]
 		},
 		{
-			"ShaderMapHash": "3D173D495FDD60094A6D4F0D74204FC91A55075F",
+			"ShaderMapHash": "F66189E58E9591D49E1B9F27D4CB1FA726F7870E",
 			"Assets": [
-				"/Engine/VREditor/Devices/Oculus/OculusControllerMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "4BE209CAA425ADD22F0578F355F2700E644119FA",
-			"Assets": [
-				"/Engine/VREditor/Devices/Generic/GenericHMDMaterial"
+				"/Engine/EditorMaterials/GridMaterial"
 			]
 		},
 		{
@@ -32,6 +26,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2CE39931199DC7DA2475BE597E50F419B7FA09F0",
+			"Assets": [
+				"/ConcertSyncClient/M_MonitorScreen"
+			]
+		},
+		{
+			"ShaderMapHash": "0C9526AB0D706F04A2DD7F5AB72371EDC759FE26",
+			"Assets": [
+				"/ConcertSyncClient/M_ConcertClientPresence"
+			]
+		},
+		{
+			"ShaderMapHash": "A2F3B214E1777D1E49F72515F2E065E3FBC437C9",
+			"Assets": [
+				"/ConcertSyncClient/M_UE4Head_Body"
+			]
+		},
+		{
 			"ShaderMapHash": "A5D32F548B1EBE36C24B65D686FF51931FA0A834",
 			"Assets": [
 				"/Engine/VREditor/LaserPointer/M_LaserPointer-Outer"
@@ -41,6 +53,18 @@
 			"ShaderMapHash": "E70679D569A960CCC6D268DA326DB27BFCA59893",
 			"Assets": [
 				"/Engine/VREditor/LaserPointer/M_LaserPointer-Core"
+			]
+		},
+		{
+			"ShaderMapHash": "A3C865D784EC37210D4BF82C9B1673AA4F2E363A",
+			"Assets": [
+				"/ConcertSyncClient/M_UE4Head_Desktop"
+			]
+		},
+		{
+			"ShaderMapHash": "7144B6D6C9F2B87EA711F2171CBCC942E68F2B88",
+			"Assets": [
+				"/ConcertSyncClient/M_ConcertClientPresence-Desktop"
 			]
 		},
 		{
@@ -387,12 +411,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
 			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
@@ -402,6 +420,12 @@
 			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -762,33 +786,17 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7F9798361E3124DDE41CB06CBC524993380D2E96",
+			"ShaderMapHash": "2D479A78C93314C31D9B2419D45062EE7644D767",
 			"Assets": [
-				"/ConcertSyncClient/M_CameraFacing"
+				"/USDImporter/Materials/UsdPreviewSurfaceVT",
+				"/USDImporter/Materials/UsdPreviewSurface"
 			]
 		},
 		{
-			"ShaderMapHash": "7144B6D6C9F2B87EA711F2171CBCC942E68F2B88",
+			"ShaderMapHash": "A7D6CBBB56FF41DEFCCA0FEB63C79F578FE60055",
 			"Assets": [
-				"/ConcertSyncClient/M_ConcertClientPresence-Desktop"
-			]
-		},
-		{
-			"ShaderMapHash": "8AD82CBCEB137EDE87C985E5E1BC0A7594A2846F",
-			"Assets": [
-				"/USDImporter/Materials/DisplayColorAndOpacityDoubleSided"
-			]
-		},
-		{
-			"ShaderMapHash": "02A0ADF86D4CF80237BDA0547376FE541BC4A052",
-			"Assets": [
-				"/USDImporter/Materials/DisplayColorAndOpacity"
-			]
-		},
-		{
-			"ShaderMapHash": "C8942520B79FF41EC44E355BA60E32B913759B6A",
-			"Assets": [
-				"/USDImporter/Materials/DisplayColorDoubleSided"
+				"/USDImporter/Materials/UsdPreviewSurfaceTranslucentVT",
+				"/USDImporter/Materials/UsdPreviewSurfaceTranslucent"
 			]
 		},
 		{
@@ -798,40 +806,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A7D6CBBB56FF41DEFCCA0FEB63C79F578FE60055",
+			"ShaderMapHash": "C8942520B79FF41EC44E355BA60E32B913759B6A",
 			"Assets": [
-				"/USDImporter/Materials/UsdPreviewSurfaceTranslucentVT"
+				"/USDImporter/Materials/DisplayColorDoubleSided"
 			]
 		},
 		{
-			"ShaderMapHash": "2D479A78C93314C31D9B2419D45062EE7644D767",
+			"ShaderMapHash": "02A0ADF86D4CF80237BDA0547376FE541BC4A052",
 			"Assets": [
-				"/USDImporter/Materials/UsdPreviewSurface",
-				"/USDImporter/Materials/UsdPreviewSurfaceVT"
+				"/USDImporter/Materials/DisplayColorAndOpacity"
 			]
 		},
 		{
-			"ShaderMapHash": "A3C865D784EC37210D4BF82C9B1673AA4F2E363A",
+			"ShaderMapHash": "8AD82CBCEB137EDE87C985E5E1BC0A7594A2846F",
 			"Assets": [
-				"/ConcertSyncClient/M_UE4Head_Desktop"
-			]
-		},
-		{
-			"ShaderMapHash": "A2F3B214E1777D1E49F72515F2E065E3FBC437C9",
-			"Assets": [
-				"/ConcertSyncClient/M_UE4Head_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "2CE39931199DC7DA2475BE597E50F419B7FA09F0",
-			"Assets": [
-				"/ConcertSyncClient/M_MonitorScreen"
-			]
-		},
-		{
-			"ShaderMapHash": "0C9526AB0D706F04A2DD7F5AB72371EDC759FE26",
-			"Assets": [
-				"/ConcertSyncClient/M_ConcertClientPresence"
+				"/USDImporter/Materials/DisplayColorAndOpacityDoubleSided"
 			]
 		}
 	]
