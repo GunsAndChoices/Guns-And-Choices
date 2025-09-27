@@ -1052,3 +1052,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.09.27-15.24.37:366][161]AssetCheck: New page: Asset Save: multiple assets
 [2025.09.27-15.24.37:366][161]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2025.09.27-15.24.37:366][161]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2025.09.27-15.49.25:744][388]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d011d4aa-d938-4037-a884-9668a51e09b9}.
+[2025.09.27-15.49.25:744][388]LogAudioMixer: Resetting audio stream to device id 
+[2025.09.27-15.49.25:745][388]LogAudioMixer: Display: 0: FrontLeft
+[2025.09.27-15.49.25:745][388]LogAudioMixer: Display: 1: FrontRight
