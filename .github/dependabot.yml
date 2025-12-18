@@ -6,18 +6,6 @@ updates:
     schedule:
       interval: "weekly"
 
-  # C++ / C via vcpkg
-  - package-ecosystem: "vcpkg"
-    directory: "/" # Pfad zur vcpkg.json
-    schedule:
-      interval: "weekly"
-
-  # C++ / C via Git Submodules (oft für Plugins/ThirdParty)
-  - package-ecosystem: "gitsubmodule"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-
   # GitHub Actions (optional, nützlich für CI/CD Workflows)
   - package-ecosystem: "github-actions"
     directory: "/"
