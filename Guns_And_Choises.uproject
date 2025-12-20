@@ -8,5 +8,11 @@
 			"Name": "MultiUserClient",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"HoloLens",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"WindowsNoEditor"
 	]
 }
