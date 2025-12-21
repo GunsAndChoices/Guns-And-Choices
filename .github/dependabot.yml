@@ -1,0 +1,13 @@
+version: 2
+updates:
+  # C# / NuGet Pakete
+  - package-ecosystem: "nuget"
+    directory: "/" # Pfad zur .sln oder .csproj
+    schedule:
+      interval: "weekly"
+
+  # GitHub Actions (optional, nützlich für CI/CD Workflows)
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
