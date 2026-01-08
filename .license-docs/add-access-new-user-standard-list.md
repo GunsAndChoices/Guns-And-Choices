@@ -23,7 +23,7 @@
 - [ ] Reverse engineering
 - [ ] Decompiling
 - [ ] Disassembling
-- [ ] Uploading to public repositories
+- [x] Uploading to public repositories
 - [x] Uploading to private repositories
 - [x] Sharing compiled binaries
 - [x] Sharing assets
