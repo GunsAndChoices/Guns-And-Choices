@@ -1,0 +1,36 @@
+### Additional Permitted Actions
+- [x] Copying the software
+- [x] Reproducing the software
+- [x] Duplicating the software
+- [x] Modifying the software
+- [x] Adapting the software
+- [x] Translating the software
+- [x] Altering the software
+- [x] Creating derivative works
+- [x] Creating forks
+- [ ] Distributing the software
+- [ ] Publishing the software
+- [ ] Sharing with third parties
+- [ ] Making the software available to third parties
+- [ ] Selling the software
+- [ ] Sublicensing the software
+- [ ] Renting the software
+- [ ] Leasing the software
+- [ ] Monetizing the software
+- [x] Integrating into other projects
+- [x] Integrating into other products
+- [x] Integrating into other services
+- [ ] Reverse engineering
+- [ ] Decompiling
+- [ ] Disassembling
+- [ ] Uploading to public repositories
+- [x] Uploading to private repositories
+- [x] Sharing compiled binaries
+- [x] Sharing assets
+- [ ] Automated mirroring
+- [ ] Creating backups accessible to third parties
+- [x] CI/CD redistribution
+- [x] Partial reuse of code
+- [x] Partial reuse of assets
+- [x] Partial reuse of logic
+- [x] Partial reuse of structure
